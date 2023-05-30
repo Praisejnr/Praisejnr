@@ -1,0 +1,66 @@
+body{
+  font-size: 15pt;
+  background: whitesmoke;
+}
+
+h2{
+  text-align: center;
+  color: orange;
+  font-family: 'Times New Roman';
+  text-decoration: underline;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+#Bible{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+}
+
+#note1{
+ font-family: 'Times New Roman';
+ font-size: 15px;
+ word-spacing: 5px;
+}
+
+i{
+  font-weight: bold;
+}
+
+#first{
+  text-decoration: none;
+}
+
+.a{
+  padding: 15px;
+  background-color: orange;
+  border-radius: 15px;
+  font-size: 15px;
+  justify-content: center;
+  text-align: center;
+}
+
+#logo{
+  width: 30px;
+  border-radius: 100%;
+}
+
+footer{
+  background-color: lightgray;
+  padding: 20%;
+}
+
+#note2{
+  text-align: center;
+  font-family: 'Times New Roman';
+}
+
+#link2{
+  margin-left: 60px;
+  text-decoration: none;
+}

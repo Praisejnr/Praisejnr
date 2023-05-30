@@ -1,0 +1,86 @@
+body{
+  font-size: 15pt;
+  background-color: whitesmoke;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Times New Roman';
+  color: orange;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+h4{
+  text-align: center;
+  color: orange;
+  font-size: 35px;
+  font-family: 'Times New Roman';
+}
+
+i{
+  text-align: center;
+  font-size: 15px;
+}
+
+#note1{
+  font-size: 25px;
+  color: orange;
+  font-family: 'Times New Roman';
+  text-align: left;
+}
+
+li{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#Names{
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+  letter-spacing: 2px;
+}
+
+#bible{
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+b{
+  text-transform: uppercase; 
+}
+
+.end1{
+  background-color: lightgray;
+  padding: 20%;
+}
+
+.a{
+  padding: 15px;
+  background-color: orange;
+  border-radius: 15px;
+  font-size: 15px;
+  justify-content: center;
+  text-align: center;
+}
+
+#logo{
+  width: 30px;
+  border-radius: 100%;
+}
+
+#note2{
+  text-align: center;
+  font-family: 'Times New Roman';
+}
+
+#link2{
+  margin-left: 60px;
+  text-decoration: none;
+}
+
